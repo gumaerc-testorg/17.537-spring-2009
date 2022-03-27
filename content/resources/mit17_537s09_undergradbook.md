@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 184b1e80-2d96-80e7-b148-1335c9ec6481
 resourcetype: Document
 title: Books for Undergraduate Book Report
 uid: 16474ef1-e018-c6cf-7bdd-e92490282a5f

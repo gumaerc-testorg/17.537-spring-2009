@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 184b1e80-2d96-80e7-b148-1335c9ec6481
 resourcetype: Document
 title: 'Japan Votes: Rational Choices and Social Obligations'
 uid: 5dd09f22-9400-3ff8-3c70-ead275b02712
