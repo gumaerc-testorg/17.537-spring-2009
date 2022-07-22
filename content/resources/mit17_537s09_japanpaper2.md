@@ -6,6 +6,7 @@ file: /courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/5dd0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Japan Votes: Rational Choices and Social Obligations'
 uid: 5dd09f22-9400-3ff8-3c70-ead275b02712
 ---
 Example of student work for a writing assignment on democracy in Japan, rational choices, and social obligations.
-

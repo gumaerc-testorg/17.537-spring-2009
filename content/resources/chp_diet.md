@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: The Japanese Diet Building
 uid: 9c16f0c4-c64b-a972-ad07-2721789879b8
 ---
 The Japanese Diet building.  (Image courtesy of the Embassy of Japan in Thailand, http://embjp-th.org/.)
-
