@@ -5,6 +5,7 @@ description: A list of books for an assignment to summarize the author's main th
   on history, industry and economy, politics and public policy, science and technology,
   and society.
 file: /courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/16474ef1e018c6cf7bdde92490282a5f_MIT17_537S09_Undergradbook.pdf
+file_size: 82254
 file_type: application/pdf
 learning_resource_types:
 - Assignments

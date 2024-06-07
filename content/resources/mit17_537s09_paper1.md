@@ -3,6 +3,7 @@ content_type: resource
 description: Example of student work for a writing assignment on economic concerns
   and bureaucratic politics in Japan.
 file: /courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/e0575d818f5baa98dca3657016af4970_MIT17_537S09_paper1.pdf
+file_size: 106662
 file_type: application/pdf
 learning_resource_types:
 - Assignments
