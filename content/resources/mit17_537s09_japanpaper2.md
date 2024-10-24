@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for a writing assignment on democracy in Japan,
   rational choices, and social obligations.
-file: /courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/5dd09f2294003ff83c70ead275b02712_MIT17_537S09_japanpaper2.pdf
+file: /ol-ocw-studio-app/courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/5dd09f2294003ff83c70ead275b02712_MIT17_537S09_japanpaper2.pdf
 file_size: 124232
 file_type: application/pdf
 learning_resource_types:
