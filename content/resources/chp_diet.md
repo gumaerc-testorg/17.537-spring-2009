@@ -2,7 +2,7 @@
 content_type: resource
 description: The Japanese Diet building.  (Image courtesy of the Embassy of Japan
   in Thailand, http://embjp-th.org/.)
-file: /ol-ocw-studio-app/courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/9c16f0c4c64ba972ad072721789879b8_CHP_Diet.jpg
+file: /courses/17-537-politics-and-policy-in-contemporary-japan-spring-2009/9c16f0c4c64ba972ad072721789879b8_CHP_Diet.jpg
 file_size: 57902
 file_type: image/jpeg
 image_metadata:
