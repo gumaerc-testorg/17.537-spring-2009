@@ -98,9 +98,9 @@ From Taisho to Showa
 
  \[Modern\] Chapters 10-11.
 
-Kosaka, Masataka. "{{% resource_link "a11a4877-4a3e-4491-b215-eb164c9ffca8" "The Showa Era (1926-1989)" %}}." _Daedalus_ 119, no. 3 (Summer 1990): 27-48.
+Kosaka, Masataka. "[The Showa Era (1926-1989)](http://www.jstor.org/stable/20025315)." _Daedalus_ 119, no. 3 (Summer 1990): 27-48.
 
-Gluck, Carol. "{{% resource_link "a7f7c5e5-b854-4dca-a42c-7bad2d542c84" "The Idea of Showa" %}}." _Daedalus_ 119, no. 3 (Summer 1990): 1-26.
+Gluck, Carol. "[The Idea of Showa](http://www.jstor.org/stable/20025314)." _Daedalus_ 119, no. 3 (Summer 1990): 1-26.
 
 \*Johnson, Chalmers. _MITI and the Japanese Miracle: The Growth of Industrial Policy 1925-1975_. Palo Alto, CA: Stanford University Press, 1982, chapters 1-3. ISBN: 9780804712064.
 
@@ -122,7 +122,7 @@ Transwar political history
 
  \[Modern\] Chapters 12-14.
 
-Passin, Herbert. "{{% resource_link "230692c2-e15b-4e18-9518-a16f1c2f7669" "The Occupation: Some Reflections" %}}." _Daedalus_ 119, no. 3 (Summer 1990): 107-130.
+Passin, Herbert. "[The Occupation: Some Reflections](http://www.jstor.org/stable/20025319)." _Daedalus_ 119, no. 3 (Summer 1990): 107-130.
 
 Gluck, Carol. "The Past in the Present." In \[Postwar\].
 
@@ -152,7 +152,7 @@ Nakane, Chie. "Criteria of Group Formation." Chapter 1 in _Japanese Society_. Be
 
 Nathan, John. _Japan Unbound: A Volatile Nation's Quest for Pride and Purpose_. New York, NY: Houghton Mifflin, 2004, chapters 2, 5, and 6. ISBN: 9780618138944.
 
-\*Shipper, Apichai. "{{% resource_link "35573189-a285-4370-9853-1f8fc7868f48" "The Political Construction of Foreign Workers in Japan" %}}." _Critical Asian Studies_ 34, no. 1 (2002): 41-68.
+\*Shipper, Apichai. "[The Political Construction of Foreign Workers in Japan](https://www.tandfonline.com/doi/abs/10.1080/146727102760166590)." _Critical Asian Studies_ 34, no. 1 (2002): 41-68.
 
 
 {{< tdclose >}}
@@ -172,7 +172,7 @@ Reed, Steven. _Making Common Sense of Japan_. Pittsburgh, PA: University of Pitt
 
 Amyx, Jennifer A. _Japan's Financial Crisis: Institutional Rigidity and Reluctant Change_. Princeton, PA: Princeton University Press, 2004, chapters 1-3. ISBN: 9780691128689.
 
-Colignon, Richard, and Chikako Usui. "{{% resource_link "dfb7ccc5-24ec-4cfb-9b60-39b67192ce04" "The Resilience of Japan's Iron Triangle" %}}." _Asian Survey_ 41, no. 5 (September/October 2001): 865-895.
+Colignon, Richard, and Chikako Usui. "[The Resilience of Japan's Iron Triangle](http://www.jstor.org/stable/2691613)." _Asian Survey_ 41, no. 5 (September/October 2001): 865-895.
 
 
 {{< tdclose >}}
@@ -188,7 +188,7 @@ The party system after 1993
 {{< tdopen >}}
 
 
-Tamamoto, Masaru. "{{% resource_link "dba74861-7a10-4d81-8406-613fe225a503" "Village Politics: Japans Prince of Disorder" %}}." _World Policy Journal_ 12, no. 1 (Spring 1995): 49-60.
+Tamamoto, Masaru. "[Village Politics: Japans Prince of Disorder](http://findarticles.com/p/articles/mi_hb6669/is_n1_v12/ai_n28655806/)." _World Policy Journal_ 12, no. 1 (Spring 1995): 49-60.
 
  \[Logic\] Chapters 1-2.
 
@@ -210,7 +210,7 @@ The liberal democratic party
 
  \[Logic\] Chapter 5
 
-Krauss, Ellis S., and Robert Pekkanen. "Explaining Party Adaptation to Electoral Reform: TheDiscreet Charm of the LDP?" _Journal of Japanese Studies_ 30, no. 1 (Winter 2004): 1-34. ({{% resource_link "736207d9-6b93-4831-81ef-9eadaac36bf5" "PDF" %}})
+Krauss, Ellis S., and Robert Pekkanen. "Explaining Party Adaptation to Electoral Reform: TheDiscreet Charm of the LDP?" _Journal of Japanese Studies_ 30, no. 1 (Winter 2004): 1-34. ([PDF](http://muse.jhu.edu/journals/journal_of_japanese_studies/v030/30.1krauss.pdf))
 
 Ramseyer, J. Mark, and Frances McCall Rosenbluth. _Japan's Political Marketplace_. Cambridge, MA: Harvard University Press, 1993, chapters 4 and 5. ISBN: 9780674472815.
 
@@ -250,9 +250,9 @@ The electoral system
 
  \[Logic\] Chapter 4.
 
-Otake, Hideo. "Overview." In {{% resource_link "b590d003-68fc-4e9b-9290-7e1852766bd8" "_How Electoral Reform Boomeranged: Continuity in Japanese Campaigning Style_" %}}. Tokyo, Japan: Japan Center for International Exchange, 1998. ISBN: 9780700716449.
+Otake, Hideo. "Overview." In [_How Electoral Reform Boomeranged: Continuity in Japanese Campaigning Style_](https://search.proquest.com/openview/49140b25facdaeb52ae9f6de6d8fa943/1?pq-origsite=gscholar&cbl=48231). Tokyo, Japan: Japan Center for International Exchange, 1998. ISBN: 9780700716449.
 
-\*Reed, Steven R. "{{% resource_link "db7c921a-2f92-473a-ae76-9b1a453aada5" "Structure and Behaviour: Extending Duverger's Law to the Japanese Case" %}}." _British Journal of Political Science_ 20, no. 3 (1990): 335-356.
+\*Reed, Steven R. "[Structure and Behaviour: Extending Duverger's Law to the Japanese Case](http://www.jstor.org/stable/193914)." _British Journal of Political Science_ 20, no. 3 (1990): 335-356.
 
 
 {{< tdclose >}}
@@ -268,7 +268,7 @@ Voter mobilization and voting behavior
 {{< tdopen >}}
 
 
-Otake, Hideo. "How a Diet Member's Koenkai Adapts to Social and Political Changes."In {{% resource_link "079597ab-8241-4498-9032-67646865b3c4" "_How Electoral Reform Boomeranged: Continuity in Japanese Campaigning Style_" %}}. Tokyo, Japan: Japan Center for International Exchange, 1998. ISBN: 9780521846929.
+Otake, Hideo. "How a Diet Member's Koenkai Adapts to Social and Political Changes."In [_How Electoral Reform Boomeranged: Continuity in Japanese Campaigning Style_](http://www.jcie.or.jp/books/abstracts/H/electoral_reform.html). Tokyo, Japan: Japan Center for International Exchange, 1998. ISBN: 9780521846929.
 
 Richardson, B. "Japanese Voting Behavior in Comparative Perspective." In _The Japanese Voter_. Edited by Scott C. Flanagan, Shinsaku Kohei, Ichiro Miyake, and Bradley M. Richardson. New Haven, CT: Yale University Press, 1991. ISBN: 9780300047806.
 
@@ -356,7 +356,7 @@ Pempel, T. J., and M. Muramatsu. "The Japanese Bureaucracy and Economic Developm
 
 Schwartz, Frank. "Of Fairy Cloaks and Familiar Talks: The Politics of Consultation." In _Political Dynamics in Contemporary Japan_. Written by Gary D. Allinson and edited by Yasunori Sone. Ithaca, NY: Cornell University Press, 1993. ISBN: 9780801480966.
 
-Rozman, Gilbert. "{{% resource_link "f5b8b2ce-7e6b-41bf-8f37-9db62ebce0e2" "Backdoor Japan: The Search for a Way Out via Regionalism and Decentralization" %}}." _Journal of Japanese Studies_ 25, no. 1 (Winter 1999): 3-31.
+Rozman, Gilbert. "[Backdoor Japan: The Search for a Way Out via Regionalism and Decentralization](http://www.jstor.org/stable/133352)." _Journal of Japanese Studies_ 25, no. 1 (Winter 1999): 3-31.
 
 
 {{< tdclose >}}
@@ -434,11 +434,11 @@ Energy policy
 
 Samuels, R. J. _The Business of the Japanese State_. Ithaca, NY: Cornell University Press, 1987, chapters 3-6 (select two) and chapter 7. ISBN: 9780801494628.
 
-Upham, Frank. "{{% resource_link "9bd753a7-d80a-4730-b2db-1d33619f8f19" "The Man Who Would Import: A Cautionary Tale About Bucking the System in Japan" %}}." _Journal of Japanese Studies_ 17, no. 2 (Summer 1991): 323-343.
+Upham, Frank. "[The Man Who Would Import: A Cautionary Tale About Bucking the System in Japan](http://www.jstor.org/stable/132745)." _Journal of Japanese Studies_ 17, no. 2 (Summer 1991): 323-343.
 
-Pickett, Susan E. "{{% resource_link "8acb6846-7ff4-44f6-afba-1bf9f1d42a16" "Japan's Nuclear Energy Policy: From Firm Commitment to Difficult Dilemma Addressing Growing Stocks of Plutonium, Program Delays, Domestic Opposition and International Pressure" %}}._" Energy Policy_ 30, no. 15 (2002): 1337-55.
+Pickett, Susan E. "[Japan's Nuclear Energy Policy: From Firm Commitment to Difficult Dilemma Addressing Growing Stocks of Plutonium, Program Delays, Domestic Opposition and International Pressure](http://dx.doi.org/10.1016/S0301-4215(02)00028-9)._" Energy Policy_ 30, no. 15 (2002): 1337-55.
 
-Lesbirel, S. Hayden. "{{% resource_link "f649ced8-7117-454b-b014-fe5e211da4bd" "Diversification and Energy Security Risks: The Japanese Case" %}}." _Japanese Journal of Political Science_ 5, no. 1 (2004): 1-22.
+Lesbirel, S. Hayden. "[Diversification and Energy Security Risks: The Japanese Case](http://journals.cambridge.org/action/displayFulltext?type=1&fid=248042&jid=JJP&volumeId=5&issueId=01&aid=248041)." _Japanese Journal of Political Science_ 5, no. 1 (2004): 1-22.
 
 
 {{< tdclose >}}
